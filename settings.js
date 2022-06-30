@@ -27,9 +27,9 @@ global.premium = ['601160686450'] //ubah jadi nomor mu, note tanda ' gausah di h
 global.ownernomer = '601160686450' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Mus' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'TAQIM' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'TAQIM' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'MUSTAQIM' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'MUSTAQIM SDN BHD' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'MUSTAQIM SDN BHD' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
@@ -38,7 +38,7 @@ global.ig = 'https://instagram.com/riychdwayne'
 global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
 global.myweb = 'https://s.id/chikabot'
 global.email = 'riychdwaynee@gmail.com'
-global.region = 'indonesia'
+global.region = 'malaysia'
 
 //—————「 Set Wm 」—————//
 global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
